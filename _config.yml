@@ -1,0 +1,41 @@
+# Site
+name: "Ravi Kumar Pillai"
+title: "Ravi Kumar Pillai"
+description: "Ravi Kumar Pillai"
+meta_description: "Ravi Kumar Pillai"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: ''
+email: 'ravikumarpillai9@gmail.com'
+# google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  Ravi:
+    name: Ravi Kumar Pillai
+    display_name: Ravi
+    gravatar: 19014d4504a4a1ae409da01f7b6b4238
+    email: ravikumarpillai9@gmail.com
+    description: "Ravi Kumar Pillai is an author, Coach and Consultant based in Trivandrum and can be contacted at ravikumarpillai9@gmail.com"
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
