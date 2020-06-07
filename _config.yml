@@ -1,16 +1,16 @@
 # Site
 name: "Ravi Kumar Pillai"
 title: "Ravi Kumar Pillai"
-description: "Ravi Kumar Pillai"
-meta_description: "Ravi Kumar Pillai"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-paginate: 12
+description: "Author, Coach, Mentor and Consultant"
+meta_description: "Author, Coach, Mentor and Consultant"
+logo: ''
+favicon: ''
+paginate: 4
 baseurl: ''
 email: 'ravikumarpillai9@gmail.com'
 # google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+disqus: ''
+sharethis: ''
 
 # Authors
 authors:

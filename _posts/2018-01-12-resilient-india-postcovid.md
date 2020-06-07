@@ -6,6 +6,7 @@ categories: [ one, two ]
 image: assets/images/hero.jpg
 featured: true
 ---
+
 “April is the cruellest month”, wrote TS Eliot, the celebrated poet. As if to prove the prophetic words, Covid pandemic wound itself up through the first quarter of 2020 and assumed tsunami-like fury by April smashing any hope of recovery for the already depressed global  economy and consumer confidence. The economic and emotional devastation by corona virus is still ruling the roost. In India, with sizeable sections of the population economically vulnerable, the gathering recessionary clouds portend prolonged trouble.
 
 The eagerly awaited economic reports for Q4, FY 20 were released by Modi  Government on Friday. India’s economy grew at just 3.1 per cent in the quarter. The headline number for the full FY20 came at an 11-year low of 4.2 per cent. Further, as the lockdown effect started snowballing, India’s eight core infrastructure sectors - Coal, Crude Oil, Natural Gas, Petroleum Refinery products, Fertilizer, Cement, Steel, and Electricity - which have a combined weight of over 40% of the Index of Industrial Production (IIP) of India,  contracted more than one third in April. The full impact of the lockdown on manufacturing and services will become more apparent in the June quarter, with Goldman Sachs predicting a 45 per cent contraction from a year ago.

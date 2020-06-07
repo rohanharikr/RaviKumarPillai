@@ -2,9 +2,10 @@
 layout: post-right-sidebar
 title:  "Is India ready for Federalism?"
 author: Ravi
-categories: [ Jekyll, tutorial ]
+categories: [ one, two ]
 image: assets/images/india.jpg
 ---
+
 India as an independent nation is about to complete seventy-five years of freedom from colonial rule. Thirty years is generally considered as a generational span, which is the average time taken for children born to become adults and have in turn children born to them. In that sense we have the third generation of citizens born in free India currently at the  threshold of their teens. It is indeed time to ask ourselves some uncomfortable questions. What sort of future is reckoning these kids?  How have we as a nation and as the generations preceding them fared in enabling their ascendancy in terms competence, engagement and quality of life?
 
 The answers to these questions unfortunately are nothing to write home about. The low score in terms of Human Development Index (HDI) would speak for itself. India’s HDI rank as per World Economic Forum Report of 2019 is 129 out of 189 nations covered. Our rank has just gone up by one place over the five-year period 2013 to 2018. If we look at the inter-state comparison of HDI, the lumping of the Hindi heartland states of Bihar, MP and UP at the bottom of the heap is a sad tale of development deficit. If we take all Hindi-speaking States representing almost half of our population, their average HDI is significantly less than the Southern states.

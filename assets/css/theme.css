@@ -326,7 +326,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-image:url(../images/head.jpg);
+    background-image:url(https://images.unsplash.com/photo-1523875194681-bedd468c58bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80);
     background-size:cover;
     padding: 9rem 0;
     margin-top:-87px;
@@ -367,7 +367,7 @@ span.post-name a,span.post-read-more a:hover {
 	border-top:1px solid rgba(0,0,0,.05)!important;
 	color:#999;
 	margin-top:50px;
-    margin-bottom:0px;
+    margin-bottom:-6px;
     background-color: #171e27;
     padding: 30px 0px 30px 0;
 }

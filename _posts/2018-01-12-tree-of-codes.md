@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "What Lies Ahead of the Gulf Slowdown?"
 author: Ravi
 categories: [ one, two ]
 image: assets/images/two.jpg
 ---
+
 Stories from One Thousand and One Nights, popularly known as Arabian Nights, have lighted up the minds of millions of kids in India for generations. Children who grew up listening to these stories by the bedside would have fantasized about the immense riches of Arabia. At least some of them would have migrated to the Gulf later in life in pursuit of job opportunities and savings.
 
 The Oil-rich Arab monarchies, notably the five Gulf Coordination Council (GCC) nations of Saudi Arabia, United Arab Emirates, Bahrain, Oman and Qatar have played a key role in lifting millions of low-skilled and semi-skilled workers from South Asia to decent living standards. A stint in the Region would have enabled many of them to have a roof over their head and a bank balance to fall back. The newfound prosperity on the back of Gulf remittances is visible not just in Kerala where large houses dot even the rural landscape. In pockets across India with a sprinkling of gulf migrant households, the folklore centres around the local lads who returned with tidy fortunes from across the Arabian sea.
