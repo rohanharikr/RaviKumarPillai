@@ -72,9 +72,11 @@ Ravi Kumar Pillai has over three decades of corporate and consulting experience 
       <img src="assets/images/book.png" alt="placeholder image">
     </div>
     <div class="grid_item">
-      <h4 id="contactme" style="line-height: 42px;"><a href="{{ site.baseurl }}/contact">Buy Transformational Technologies on Amazon</a></h4>
+      <h4 id="contactme" style="line-height: 42px;"><a href="https://www.amazon.in/Transformational-Technologies-Leveraging-Development-Governance-ebook/dp/B084WR9MGB">Buy Transformational Technologies on Amazon</a></h4>
     </div>
   </div>
 </section>
 
 He was **Lead Internal Consultant** for strategic transformation aand turnaround projects. He has consulted in **Organization Design, Total Rewards Management and Executive Compensation, Leadership Coaching and Mentoring.**
+
+Reach out to me at [hello@ravikumarpillai.com](mailto:hello@ravikumarpillai.com) or [chat on WhatsApp](https://wa.me/919995805987)
