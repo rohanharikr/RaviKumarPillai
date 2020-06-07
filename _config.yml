@@ -6,7 +6,7 @@ meta_description: "Ravi Kumar Pillai"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/RaviKumarPillai'
+baseurl: ''
 email: 'ravikumarpillai9@gmail.com'
 # google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
