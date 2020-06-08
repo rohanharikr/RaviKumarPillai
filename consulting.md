@@ -10,13 +10,13 @@ comments: false
     <div class="accordion-item">
       <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Business & Operating Model</span><span class="icon" aria-hidden="true"></span></button>
       <div class="accordion-content">
-        <p>Business Effectiveness<br> Audit : Review and alignment of structure, systems and competencies</p>
+        <p>Audit : Review and alignment of structure, systems and competencies</p><p>Business Effectiveness</p>
       </div>
     </div>
     <div class="accordion-item">
       <button id="accordion-button-2" aria-expanded="false"><span class="accordion-title">Total Rewards Management</span><span class="icon" aria-hidden="true"></span></button>
       <div class="accordion-content">
-        <p>Salary Design, Job Evaluation, Market Pricing, Incentives Design, Stock Option;  Talent Retention Programs</p>
+        <p>Salary Design, Job Evaluation, Market Pricing, Incentives Design, Stock Option</p><p>Talent Retention Programs</p>
       </div>
     </div>
     <div class="accordion-item">

@@ -58,7 +58,7 @@ comments: false
 
 Ravi Kumar Pillai has over three decades of corporate and consulting experience with multinationals and Indian companies. He has wide ranging experience in Oil & Gas, Telecom, Iron & Steel and FMCG sectors. 
 
-**A prolific writer**, he has a book recently and is a regular blogger. His articles have appeared in Times of India, Economic Times, Financial Express.  An alumni of **Jamnalal Bajaj institute of Management Studies**, Mumbai. He worked for **SAIL, RPG Group, Aditya Birla Group, Exxon Mobil and Etisalat Group (UAE)**
+**A prolific writer**, he has published a book recently and is a regular blogger. His articles have appeared in Times of India, Economic Times, Financial Express.  An alumnus of **Jamnalal Bajaj institute of Management Studies**, Mumbai. He worked for **SAIL, RPG Group, Aditya Birla Group, Exxon Mobil and Etisalat Group (UAE)**
 
 <section class="demo">
   <div class="grid">
@@ -77,6 +77,6 @@ Ravi Kumar Pillai has over three decades of corporate and consulting experience 
   </div>
 </section>
 
-He was **Lead Internal Consultant** for strategic transformation aand turnaround projects. He has consulted in **Organization Design, Total Rewards Management and Executive Compensation, Leadership Coaching and Mentoring.**
+He was **Lead Internal Consultant** for strategic transformation and turnaround projects. He has consulted in **Organization Design, Total Rewards Management and Executive Compensation, Leadership Coaching and Mentoring.**
 
 Reach out to me at [hello@ravikumarpillai.com](mailto:hello@ravikumarpillai.com) or [chat on WhatsApp](https://wa.me/919995805987)
