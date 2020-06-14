@@ -21,4 +21,4 @@ fields:
   name: featured
   label: featured
 pages:
-- _posts/hello-there.md
+- _posts/2020-06-14-hello-there.md
