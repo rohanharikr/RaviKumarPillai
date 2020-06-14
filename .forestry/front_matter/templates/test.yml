@@ -20,3 +20,5 @@ fields:
 - type: boolean
   name: featured
   label: featured
+pages:
+- _posts/hello-there.md
