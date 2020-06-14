@@ -22,3 +22,5 @@ fields:
 - type: boolean
   name: featured
   label: featured
+pages:
+- _posts/indian-telecom-do-not-kill-the-golden-goose.md
