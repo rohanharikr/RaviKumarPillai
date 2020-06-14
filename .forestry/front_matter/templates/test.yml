@@ -5,12 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post-right-sidebar
 - type: text
   name: title
   label: title
 - type: text
   name: author
   label: author
+  default: Ravi
 - type: list
   name: categories
   label: categories
