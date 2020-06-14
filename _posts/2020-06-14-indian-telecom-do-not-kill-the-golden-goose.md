@@ -9,7 +9,6 @@ image: assets/images/goose.png
 featured: false
 
 ---
-  
 As the Supreme Court of India took up the contentious issue of Adjusted Gross Revenue (AGR) and computation of arrears payable by the Telecom Operators on last Thursday, the flip-flop and tentative nature of our bureaucratic governance was exposed for the umpteenth time.
 
 The bench headed by Justice Arun Mishra raised questions on the demand raised on the PSUs and said that its verdict in the case was misinterpreted. Including non-Telecom PSUs in utility sectors like Oil and Gas and Power in the demand for AGR-based revenue-sharing for telecom license fees was extraneous and unwarranted according to the Court. The contentions of the Private operators related to the huge demand raised by DoT for dues on account of pending licence fee and interest for delays.
@@ -48,4 +47,4 @@ Today, we are at a critical juncture requiring massive investment and speedy pro
 
 **The questions that Supreme Court has asked are core to the transparency and rationale of sound governance**. It is primary responsibility of the Government to frame, administer and attune the laws, guidelines and procedures in a manner that convinces legal scrutiny or audit. The outcome of the current case has enormous bearing on the viability, sustainability and prospects of Telecom in the country.
 
-If the Court agrees to the staggered payment, Department of Technology (DoT) should ensure fast and flawless follow-up. In the event of Court not agreeing to the deferment, Government should have an alternative strategy to provide relief and support to the sector.
+If the Court agrees to the staggered payment, Department of Telecom (DoT) should ensure fast and flawless follow-up. In the event of Court not agreeing to the deferment, Government should have an alternative strategy to provide relief and support to the sector.
