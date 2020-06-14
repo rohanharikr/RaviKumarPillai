@@ -3,7 +3,8 @@ layout: post-right-sidebar
 author: Ravi
 title: 'Indian Telecom : Do not Kill the Golden Goose'
 categories:
-- indiantelecom
+- telecom
+- economics
 image: assets/images/goose.png
 featured: false
 
