@@ -20,5 +20,3 @@ fields:
 - type: boolean
   name: featured
   label: featured
-pages:
-- _posts/2020-06-14-hello-there.md
