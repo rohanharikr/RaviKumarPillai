@@ -1,0 +1,22 @@
+---
+label: Test
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: featured
+  label: featured
