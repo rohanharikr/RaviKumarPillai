@@ -18,7 +18,9 @@ Bullies are created when they are empowered by circumstances and myopic public o
 
 India was the first nation in the world to recognize PRC. If Nehru played a part in imparting political legitimacy to PRC, it was left to Richard Nixon, the US President known more for Watergate scandal, to handhold China into diplomatic prominence. Nixon became the first US President in history to visit China in 1971. On Oct. 25, 1971, the United Nations General Assembly voted to admit the People's Republic of China and to expel the Republic of China. Eight years later, President Jimmy Carter formally recognized People’s Republic of China (PRC) with effect from 1, January, 1979.
 
-It was the persistent lobbying by American business - which senses a huge market in the vast Communist republic - that pushed the cascading events in favour of China. US diplomats saw the opportunity to corner the Cold War foe USSR by fostering China as a counterweight. **What India, a liberal democracy of huge size could not achieve, was a relative cakewalk for the totalitarian state. **China managed not only to wriggle out of isolation but to position itself as a beneficial business destination for US companies.
+It was the persistent lobbying by American business - which senses a huge market in the vast Communist republic - that pushed the cascading events in favour of China. US diplomats saw the opportunity to corner the Cold War foe USSR by fostering China as a counterweight. 
+
+**What India, a liberal democracy of huge size could not achieve, was a relative cakewalk for the totalitarian state.** China managed not only to wriggle out of isolation but to position itself as a beneficial business destination for US companies.
 
 While China mastered power politics and economic enticement to win over the mecca of capitalism, India cemented its image as a soft, and in the eyes of many global observers, a weak, lethargic third world nation in the mould of many newly independent African and Asian countries. If we wove an entropy of status quo and mediocrity around our global image, those who wielded power for decades should answer.
 
