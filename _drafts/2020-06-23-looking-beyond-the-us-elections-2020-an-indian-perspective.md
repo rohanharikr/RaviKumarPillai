@@ -19,7 +19,7 @@ Trump has been boasting about the economy doing well in his rule. The question t
 
 The way he has handled the pandemic put enormous cost on the economy and exposed the inadequacies of the US Healthcare in providing timely, efficient and inclusive support to American people.
 
-The burst of pent up black anger across America in the context of the police brutality resulting in two gruesome deaths at the hands of police vitiated the already tense and disturbed sensibilities of the average American. The spontaneity of the outrage of US citizenry- white, black, brown and of all hues- to the killing of George Floyd, an unarmed Black man by suffocation by the white policeman who held him down shows that the American spirit of liberalism and inclusiveness still runs deep. Trump would probably have been taken aback by the intensity of the rebellion against the act.
+The burst of pent up black anger across America in the context of the police brutality resulting in two gruesome deaths at the hands of police vitiated the already tense and disturbed sensibilities of the average American. The spontaneity of the outrage of US citizenry- white, black, brown and of all hues- to the killing of George Floyd, an unarmed Black man by suffocation at the hands of a white policeman who held him down shows that the American spirit of liberalism and inclusiveness still runs deep. Trump would probably have been taken aback by the intensity of the rebellion against the act.
 
 Covid mess-up and _Black Lives Matter_ protests have put sudden breaks on a seemingly ‘within reach’ shot by Trump at an extended Presidency for another term.
 
@@ -41,4 +41,4 @@ Whether Trump stays or Biden takes over, India cannot let the guard down. If the
 
 In dealing with US Administration post the upcoming elections, India has to do the homework right, pitch the strategy with firmness and play to win.
 
-_*The author is author, consultant, coach and mentor and can be contacted at ravikumarpillai9@gmail.com_
+_*The author is consultant, coach and mentor and can be contacted at ravikumarpillai9@gmail.com_
