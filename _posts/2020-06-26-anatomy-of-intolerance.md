@@ -34,7 +34,7 @@ Whether it is the continuing story of _racial prejudices against migrants from t
 
 **Political intolerance** is a virus that gets protection and encouragement by parties of various hues. _Grass root workers and mercenaries of parties take intolerance to the level of physical violence._ Stories of political violence from certain pockets in Northern Kerala have been making headlines for all the wrong reasons, till a few months back. How many youths in our schools and colleges had to sacrifice their lives in mindless clashes in and around campuses?
 
-**Emotional intolerance** is even more virulent and contagious than physical intolerance. Bullying, harassment, blocking normal and deserved progress in career and professions are woven into the contemporary culture in India. Marital discords, violence to spouses and neglect of the elderly are manifestation of emotional intolerance. Blatant selfishness and an ill-placed sense of entitlement based on ‘status’(or _self-importance_) drive intolerance toa pathological obsession. Though intolerance drives the target population to distress and alienation, it also displays the lack of self-confidence of the protagonists.
+**Emotional intolerance** is even more virulent and contagious than physical intolerance. Bullying, harassment, blocking normal and deserved progress in career and professions are woven into the contemporary culture in India. Marital discords, violence to spouses and neglect of the elderly are manifestation of emotional intolerance. Blatant selfishness and an ill-placed sense of entitlement based on ‘status’(or _self-importance_) drive intolerance to a pathological obsession. Though intolerance drives the target population to distress and alienation, it also displays the lack of self-confidence of the protagonists.
 
 Bertrand Russell, the archetypal role model of free thinking spoke of the biases in society, **“Collective fear stimulates herd instinct, and tends to produce ferocity toward those who are not regarded as members of the herd.”** Doesn’t this ring a bell in the instances mob lynching, honour killing and caste atrocities that keep happening.
 
@@ -58,4 +58,4 @@ The solution lies in increased citizen awareness of the **value of inclusion, di
 
 At the ripe age nearly seventy five, Indian democracy needs to be confident enough to encourage dialogue, dissent, debate and alternative thinking. Suppressed dissent is more a sign of weakness than strength.
 
-_Ravi Kumar Pillai is an author, consultant, coach and mentor based in Trivandrum_ 
+_Ravi Kumar Pillai is an author, consultant, coach and mentor based in Trivandrum_
