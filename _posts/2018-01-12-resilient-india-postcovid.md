@@ -5,6 +5,7 @@ author: Ravi
 categories: [ one, two ]
 image: assets/images/hero.jpg
 featured: true
+comments: true
 ---
 
 “April is the cruellest month”, wrote TS Eliot, the celebrated poet. As if to prove the prophetic words, Covid pandemic wound itself up through the first quarter of 2020 and assumed tsunami-like fury by April smashing any hope of recovery for the already depressed global  economy and consumer confidence. The economic and emotional devastation by corona virus is still ruling the roost. In India, with sizeable sections of the population economically vulnerable, the gathering recessionary clouds portend prolonged trouble.

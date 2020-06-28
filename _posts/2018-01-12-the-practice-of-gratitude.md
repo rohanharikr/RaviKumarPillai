@@ -4,6 +4,7 @@ title:  "The Practice of Gratitude"
 author: Ravi
 categories: [ one, two ]
 image: assets/images/gratitude.jpg
+comments: true
 ---
 
 Many years back I was nominated to attend an international training program in a prestigious academic institution in London. Those days in India everything from a passport to foreign exchange had to be arranged within the tight regime controls of the Government. These and many other requirements were rationed out and made to appear as great favour at the mercy of the bureaucrats at different echelons. The self-importance of petty Government officials was perceived as directly proportional to the queues and recommendations for sanctions and signatures. In hindsight, India then resembled the erstwhile East European scarcity-ridden ‘dole-out’ societies.

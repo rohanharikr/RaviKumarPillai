@@ -8,6 +8,7 @@ categories:
 - 'ladakh blues '
 image: assets/images/dragon-ball-z-kakarot-shenron.jpg
 featured: true
+comments: true
 
 ---
 If there is one thing common between Nehru and Modi it is that both made sincere attempts to cultivate what they believed to be a natural and sustainable friendship between India and China. Both were back-stabbed by the dragon with its wry and deceptive smile.

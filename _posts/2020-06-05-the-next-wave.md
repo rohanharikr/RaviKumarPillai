@@ -4,6 +4,7 @@ title:  "The Next Wave - From Mixed Economy to a Blended One"
 author: Ravi
 categories: [ economy, india ]
 image: assets/images/economy.jpg
+comments: true
 ---
 
 When Winston Churchill assumed office as the Prime Minister of Great Britain, the country was staring at impending disaster. Serious questions were being raised as to how ‘great’ Britain’s  precarious position would allow it to be and for how long. His resoluteness and perseverance made him a legend for subsequent generations. Most nations today are mired in hopeless economic logjam and deep fissures are visible in their polity. Now more than ever, the world misses  bold and aggressive leaders in the mould like Churchill, Margaret Thatcher or Ronald Reagan. Those  who would cast away their  legacy of political grand-standing and embrace challenges with unwavering commitment to turnaround.

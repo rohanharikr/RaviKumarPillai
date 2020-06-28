@@ -5,6 +5,7 @@ author: Ravi
 categories:
 - economics
 image: assets/images/two.jpg
+comments: true
 
 ---
 Stories from One Thousand and One Nights, popularly known as Arabian Nights, have lighted up the minds of millions of kids in India for generations. Children who grew up listening to these stories by the bedside would have fantasized about the immense riches of Arabia. At least some of them would have migrated to the Gulf later in life in pursuit of job opportunities and savings.

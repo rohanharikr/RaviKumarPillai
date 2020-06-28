@@ -8,6 +8,7 @@ categories:
 - intolerance
 image: assets/images/social-exclusion.jpg
 featured: true
+comments: true
 
 ---
 Peacock is the National Bird of India. Known for its exquisite charm and peaceful demeanor, the bird radiates a synergy with nature. However, the typical Indian social behavior seems more aligned to the ostrich than to peacock. We bury our heads in sand and pretend not to see our own faults, prejudices and biases.

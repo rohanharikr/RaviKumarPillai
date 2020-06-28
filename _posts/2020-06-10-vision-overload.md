@@ -4,6 +4,7 @@ title:  "Vision Overload"
 author: Ravi
 categories: [ one, two ]
 image: assets/images/visionoverload.jpg
+comments: true
 ---
 
 “If only we had a leadership with vision” is a refrain heard in many democracies. In the hardball political playout, it is often pragmatism and populism that win the day over long-term perspectives. Political parties and leaders tend to prefer short-haul and quick-fix solutions rather than transformational journeys.

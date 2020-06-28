@@ -7,6 +7,7 @@ categories:
 - economics
 image: assets/images/goose.png
 featured: false
+comments: true
 
 ---
 As the Supreme Court of India took up the contentious issue of Adjusted Gross Revenue (AGR) and computation of arrears payable by the Telecom Operators on last Thursday, the flip-flop of our bureaucratic governance was exposed for the umpteenth time.

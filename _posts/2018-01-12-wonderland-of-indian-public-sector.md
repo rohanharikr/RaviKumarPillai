@@ -4,6 +4,7 @@ title:  "In the Wonderland of Indian Public Sector"
 author: Ravi
 categories: [ one, two ]
 image: assets/images/one.webp
+comments: true
 ---
 
 Indian politicians usually fight shy of candid and crisp statements. In a rare departure, Nirmala Seetharaman, the Finance Manager recently articulated the modified policy on public enterprises, “In strategic sectors, at least one enterprise will remain in the public sector but private sector will also be allowed. In other sectors, PSEs will be privatized."

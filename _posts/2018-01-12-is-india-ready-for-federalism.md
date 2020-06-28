@@ -4,6 +4,7 @@ title:  "Is India ready for Federalism?"
 author: Ravi
 categories: [ one, two ]
 image: assets/images/india.jpg
+comments: true
 ---
 
 India as an independent nation is about to complete seventy-five years of freedom from colonial rule. Thirty years is generally considered as a generational span, which is the average time taken for children born to become adults and have in turn children born to them. In that sense we have the third generation of citizens born in free India currently at the  threshold of their teens. It is indeed time to ask ourselves some uncomfortable questions. What sort of future is reckoning these kids?  How have we as a nation and as the generations preceding them fared in enabling their ascendancy in terms competence, engagement and quality of life?

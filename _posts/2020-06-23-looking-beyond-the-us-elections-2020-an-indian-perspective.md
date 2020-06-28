@@ -9,6 +9,7 @@ categories:
 - ''
 image: assets/images/donald-trump.jpg
 featured: true
+comments: true
 
 ---
 Donald Trump seems to have hit a sticky patch even as the US Presidential election is inching closer. He has spent much of his first term indulging in whimsical and mercurial rants. During his term, the US lost much of its strategic clout, racial fire has been stoked through reckless pandering to the white middle-class voters. Even the traditional allies of America are wondering about the next moves of the highly unpredictable POTUS.
