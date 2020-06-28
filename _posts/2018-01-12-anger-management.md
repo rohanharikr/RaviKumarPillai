@@ -4,6 +4,7 @@ title:  "Anger Management"
 author: Ravi
 categories: [ one, two ]
 image: assets/images/anger.jpg
+comments: true
 ---
 
 Sidharth was busy late into the wee hours on that wintry December night celebrating with his friends the success of his project meeting with the overseas client. It was a Board Presentation and he just could not believe when the usually self-centred Project Head let him lead the show. It went so well that the client-side project owner seemed highly pleased with the deliverables. No wonder the celebrations with his close friends that followed rolled on and on for hours; everyone was in high spirits.

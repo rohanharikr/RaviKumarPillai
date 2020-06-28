@@ -5,6 +5,7 @@ author: Ravi
 categories: [ one, two ]
 image: assets/images/herro.jpg
 featured: true
+comments: true
 ---
 
 Narcissus, the legendary hunter prince in Greek mythology, is said to have fallen  in love with his own image. His love for self grew so intense that it blinded him from the realities surrounding him. Today, more than half of the world population  are ruled by  political leaders with perverse self-image. Not just in politics, but in various fields across contemporary culture,  narcissists thrive. Psychologists say power and the adulation that goes with it are so intoxicating  that lesser mortals who enjoy the same for prolonged period tend to develop empathy-deficit and an intense love for eulogy.

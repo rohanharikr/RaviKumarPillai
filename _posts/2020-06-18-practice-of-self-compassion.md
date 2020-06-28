@@ -6,9 +6,9 @@ categories:
 - self-compassion
 - behavior
 - psychology
-- ''
 image: assets/images/image-asset.jpeg
 featured: true
+comments: true
 
 ---
 Sushant Singh Rajput was an extremely talented and ambitious actor. His performances had a refreshing glow and authenticity that was rare to come by so early in career. He impressed as a rank outsider who by his tenacity and commitment was on the verge of breaking out big time on Bollywood. The news-break about Sushant putting an end to his life was shocking and unbelievable.
