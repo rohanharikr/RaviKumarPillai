@@ -6,7 +6,7 @@ categories:
 - telecom
 - economics
 image: assets/images/goose.png
-featured: false
+featured: true
 comments: true
 
 ---
