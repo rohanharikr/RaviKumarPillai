@@ -7,7 +7,7 @@ categories:
 - fired
 - job loss
 image: assets/images/exit-image.jpg
-featured: false
+featured: true
 
 ---
 **_It is important for employees in corporate sector to be professionally, emotionally and financially prepared to face the realities of job exits._**
