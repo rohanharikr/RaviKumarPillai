@@ -1,12 +1,14 @@
 ---
 layout: post-right-sidebar
-title:  "Vision Overload"
+title: Vision Overload
 author: Ravi
-categories: [ one, two ]
+categories:
+- one
+- two
 image: assets/images/visionoverload.jpg
 comments: true
----
 
+---
 “If only we had a leadership with vision” is a refrain heard in many democracies. In the hardball political playout, it is often pragmatism and populism that win the day over long-term perspectives. Political parties and leaders tend to prefer short-haul and quick-fix solutions rather than transformational journeys.
 Once in a while a leader with rare clarity of thought, eloquence of articulation and ability to inspire the masses emerges on the scene. “Here comes the messiah who would deliver us to the prosperous future, our true destiny”, his followers would vouch. Many free-thinking souls may levitate towards the new-found charisma. An aura gets created around the new hope. A leader is coronated in style.
 This may sound straight out of some literary classic, but something close to such fictional ecstasy was visible among the youth, at least in the heartland of India, when Narendra Modi arrived on the staid political arena. Six years have passed since the summer of 2014. Though it looks like the raging pandemic would make a fodder of  the ongoing financial year, it is nevertheless appropriate to ask a plain and simple question. **Whatever happened to the dream that our leader painted for us?**
