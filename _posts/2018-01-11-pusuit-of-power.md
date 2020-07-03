@@ -1,13 +1,15 @@
 ---
 layout: post-right-sidebar
-title:  "The Pursuit of Power"
+title: The Pursuit of Power
 author: Ravi
-categories: [ one, two ]
+categories:
+- governance
+- behavior
 image: assets/images/herro.jpg
 featured: true
 comments: true
----
 
+---
 Narcissus, the legendary hunter prince in Greek mythology, is said to have fallen  in love with his own image. His love for self grew so intense that it blinded him from the realities surrounding him. Today, more than half of the world population  are ruled by  political leaders with perverse self-image. Not just in politics, but in various fields across contemporary culture,  narcissists thrive. Psychologists say power and the adulation that goes with it are so intoxicating  that lesser mortals who enjoy the same for prolonged period tend to develop empathy-deficit and an intense love for eulogy.
 
 For every high-perched leader with gargantuan ego,  there are countless ordinary citizens who  meekly surrender their free will and rational choices. Streams of migrant labour walking back to villages in the wake of lockdown uncertainties highlight the helplessness and deprivation resulting from the insensitivity of the governing elite of whatever hues.
@@ -38,4 +40,4 @@ Indulgence is the extent of socialisation internalised by individuals as they gr
 
 Taking the four key dimensions of social behaviour together, the stage is set for highly manipulative political leadership styles in the country. Language, caste, regionalism, religion or social stratification of any sort would be latched on to in order to cement own vote banks and to pit people against one another.
 
-The only remedy for the distortions in the political dynamics is the triple vaccine of education, empowerment and engagement. The weak areas of our national culture such as power distance, individualism and indulgence have to be improved through genuinely inclusive, socially relevant and empowerment-oriented general education. But for that to happen, structural guarantees should be laid down through independent and constitutionally guaranteed National Education Commission with powers to set, regulate and upgrade public education. Higher Secondary level education has the potential to be an effective transformational agenda for our society to higher levels of competence, confidence and collaboration.  An informed and engaged electorate that can safeguard itself against being emotionally manipulated is the recipe for empathetic and healthy political power. 
+The only remedy for the distortions in the political dynamics is the triple vaccine of education, empowerment and engagement. The weak areas of our national culture such as power distance, individualism and indulgence have to be improved through genuinely inclusive, socially relevant and empowerment-oriented general education. But for that to happen, structural guarantees should be laid down through independent and constitutionally guaranteed National Education Commission with powers to set, regulate and upgrade public education. Higher Secondary level education has the potential to be an effective transformational agenda for our society to higher levels of competence, confidence and collaboration.  An informed and engaged electorate that can safeguard itself against being emotionally manipulated is the recipe for empathetic and healthy political power.
