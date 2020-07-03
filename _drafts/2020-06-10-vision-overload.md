@@ -3,8 +3,8 @@ layout: post-right-sidebar
 title: Vision Overload
 author: Ravi
 categories:
-- one
-- two
+- economics
+- governance
 image: assets/images/visionoverload.jpg
 comments: true
 
