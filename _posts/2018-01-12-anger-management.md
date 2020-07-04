@@ -1,12 +1,12 @@
 ---
 layout: post-right-sidebar
-title:  "Anger Management"
+title: Anger Management
 author: Ravi
-categories: [ one, two ]
+categories: []
 image: assets/images/anger.jpg
 comments: true
----
 
+---
 Sidharth was busy late into the wee hours on that wintry December night celebrating with his friends the success of his project meeting with the overseas client. It was a Board Presentation and he just could not believe when the usually self-centred Project Head let him lead the show. It went so well that the client-side project owner seemed highly pleased with the deliverables. No wonder the celebrations with his close friends that followed rolled on and on for hours; everyone was in high spirits.
 
 The alarm had rung, but he was too deep in sleep to notice. As he woke up and glanced at the watch, he was aghast. It was quarter past nine in the morning and he had the review and follow up meeting with the team at ten. With just ten minutes to go, he was still on the road, now caught in the snarling Bengaluru traffic. He did what he could at that desperate hour – he honked, screamed and fretted. He was literally red with rage and as soon as the traffic flow picked up, he pressed the accelerator, exasperated at the punishing hold-up. He banged head on to the vehicle in front and caused the cascading of more than a dozen cars into the pile that resulted. Uncontrolled anger had taken control of his response to the traffic gridlock that would have looked quite normal on a typical day. Anger is indeed a beast that gets on top once you allow it to!
