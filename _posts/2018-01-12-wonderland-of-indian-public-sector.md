@@ -1,12 +1,15 @@
 ---
 layout: post-right-sidebar
-title:  "In the Wonderland of Indian Public Sector"
+title: In the Wonderland of Indian Public Sector
 author: Ravi
-categories: [ one, two ]
+categories:
+- management
+- 'economics '
+- governance
 image: assets/images/one.webp
 comments: true
----
 
+---
 Indian politicians usually fight shy of candid and crisp statements. In a rare departure, Nirmala Seetharaman, the Finance Manager recently articulated the modified policy on public enterprises, “In strategic sectors, at least one enterprise will remain in the public sector but private sector will also be allowed. In other sectors, PSEs will be privatized."
 
 Governments across the world do engage in economic activities beyond the strict administrative domains. Even in the advanced OECD Economies, there is a fair sprinkling of State-Owned Enterprises. In India, Government Businesses in the corporate space are referred to as Public Sector Undertakings (PSUs) or Public Enterprises (PEs). I prefer the term ‘enterprise’ rather than ‘undertaking’. The latter connotes operating under compulsions of circumstances, devoid of the passion that goes into a business.
