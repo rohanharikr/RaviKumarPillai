@@ -4,7 +4,6 @@ title: The Next Wave - From Mixed Economy to a Blended One
 author: Ravi
 categories:
 - economics
-- governance
 image: assets/images/economy.jpg
 comments: true
 
