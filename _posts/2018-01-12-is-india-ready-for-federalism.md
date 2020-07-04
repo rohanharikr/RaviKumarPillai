@@ -1,12 +1,13 @@
 ---
 layout: post-right-sidebar
-title:  "Is India ready for Federalism?"
+title: Is India ready for Federalism?
 author: Ravi
-categories: [ one, two ]
+categories:
+- governance
 image: assets/images/india.jpg
 comments: true
----
 
+---
 India as an independent nation is about to complete seventy-five years of freedom from colonial rule. Thirty years is generally considered as a generational span, which is the average time taken for children born to become adults and have in turn children born to them. In that sense we have the third generation of citizens born in free India currently at the  threshold of their teens. It is indeed time to ask ourselves some uncomfortable questions. What sort of future is reckoning these kids?  How have we as a nation and as the generations preceding them fared in enabling their ascendancy in terms competence, engagement and quality of life?
 
 The answers to these questions unfortunately are nothing to write home about. The low score in terms of Human Development Index (HDI) would speak for itself. India’s HDI rank as per World Economic Forum Report of 2019 is 129 out of 189 nations covered. Our rank has just gone up by one place over the five-year period 2013 to 2018. If we look at the inter-state comparison of HDI, the lumping of the Hindi heartland states of Bihar, MP and UP at the bottom of the heap is a sad tale of development deficit. If we take all Hindi-speaking States representing almost half of our population, their average HDI is significantly less than the Southern states.
@@ -31,4 +32,4 @@ We need to realise that India today is far more politically evolved than at the 
 
 In this socio-political context, the States as the primary units of governance have to be strengthened and empowered. The pandemic responses demonstrate the need for reinforcing state level governance competence and empowerment. Assertion and execution of regional development and social empowerment can best  happen if states are structurally and resource-wise strong enough to plan and implement mission-mode transformation programs.
 
-Let the recent experience reinforce our resolve to consolidate regional empowerment rather than regressing back to over-centralisation. States with vision, skills and resources can only create opportunities for employment and entrepreneurship across the nation. Regional focus in developing the Hind-heartland states is the only solution to making the nation break out of the entropy of mediocrity and release our cities from overcrowding and miserable living conditions. 
+Let the recent experience reinforce our resolve to consolidate regional empowerment rather than regressing back to over-centralisation. States with vision, skills and resources can only create opportunities for employment and entrepreneurship across the nation. Regional focus in developing the Hind-heartland states is the only solution to making the nation break out of the entropy of mediocrity and release our cities from overcrowding and miserable living conditions.
