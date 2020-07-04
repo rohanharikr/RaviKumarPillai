@@ -1,13 +1,14 @@
 ---
 layout: post-right-sidebar
-title:  "An Agenda for Building a Resilient India post-Covid"
+title: An Agenda for Building a Resilient India post-Covid
 author: Ravi
-categories: [ one, two ]
+categories:
+- economics
 image: assets/images/hero.jpg
 featured: true
 comments: true
----
 
+---
 “April is the cruellest month”, wrote TS Eliot, the celebrated poet. As if to prove the prophetic words, Covid pandemic wound itself up through the first quarter of 2020 and assumed tsunami-like fury by April smashing any hope of recovery for the already depressed global  economy and consumer confidence. The economic and emotional devastation by corona virus is still ruling the roost. In India, with sizeable sections of the population economically vulnerable, the gathering recessionary clouds portend prolonged trouble.
 
 The eagerly awaited economic reports for Q4, FY 20 were released by Modi  Government on Friday. India’s economy grew at just 3.1 per cent in the quarter. The headline number for the full FY20 came at an 11-year low of 4.2 per cent. Further, as the lockdown effect started snowballing, India’s eight core infrastructure sectors - Coal, Crude Oil, Natural Gas, Petroleum Refinery products, Fertilizer, Cement, Steel, and Electricity - which have a combined weight of over 40% of the Index of Industrial Production (IIP) of India,  contracted more than one third in April. The full impact of the lockdown on manufacturing and services will become more apparent in the June quarter, with Goldman Sachs predicting a 45 per cent contraction from a year ago.
@@ -44,4 +45,4 @@ Fourthly, Human Capital curation and mobility across sectors and regions are cri
 
 Lastly, empowering the front line through decentralisation and devolution of functions, authority and responsibilities would yield better and faster results. In the next phase, the States, City Administrations,  and Panchayats should be encouraged and empowered to assume greater roles. They need to seed, nurture and strengthen grass root level people participation in economic and political programs.
 
-The above four strategic thrusts would provide the focus and empowerment to build a new, promising future on the other side of the interregnum. When the transformation is done, people at large should be able to say, “We did it”. 
+The above four strategic thrusts would provide the focus and empowerment to build a new, promising future on the other side of the interregnum. When the transformation is done, people at large should be able to say, “We did it”.
