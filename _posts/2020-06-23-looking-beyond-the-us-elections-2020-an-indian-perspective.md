@@ -3,10 +3,7 @@ layout: post-right-sidebar
 author: Ravi
 title: Looking Beyond the US Elections 2020 – an Indian Perspective
 categories:
-- diplomacy
-- india
-- trump
-- ''
+- economics
 image: assets/images/donald-trump.jpg
 featured: true
 comments: true
