@@ -1,12 +1,14 @@
 ---
 layout: post-right-sidebar
-title:  "Strangers Under the Roof"
+title: Strangers Under the Roof
 author: Ravi
-categories: [ one, two ]
+categories:
+- behavior
+- sociology
 image: assets/images/strangers.jpg
 comments: true
----
 
+---
 As the world struggles to recover from the uncertainties in business, trade and investment flows, three questions are being vehemently discussed by economists, administrators, academicians and citizens at large. Is the dream run of Chinese manufacturing in its last lap? What are the alternative destinations ready to challenge China in attracting industries that want to shift base? What are the realistic chances of India attracting a fair share of the relocation opportunities?
 
 Rise and rise of China has been the folklore of the past few decades. The unique story of an ancient civilisation rising up to reclaim its legacy as an economic superpower is arguably an epic of our times.
