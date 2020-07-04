@@ -3,9 +3,8 @@ layout: post-right-sidebar
 author: Ravi
 title: 'Coming to Terms with the Realities of Job Loss '
 categories:
-- stress of job exit
-- fired
-- job loss
+- sociology
+- economics
 image: assets/images/exit-image.jpg
 featured: true
 
