@@ -3,9 +3,7 @@ layout: post-right-sidebar
 author: Ravi
 title: Practice of Self-Compassion
 categories:
-- self-compassion
 - behavior
-- psychology
 image: assets/images/image-asset.jpeg
 featured: true
 comments: true
