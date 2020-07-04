@@ -3,9 +3,7 @@ layout: post-right-sidebar
 author: Ravi
 title: Challenges of Dealing with China
 categories:
-- global bully
-- china
-- 'ladakh blues '
+- governance
 image: assets/images/dragon-ball-z-kakarot-shenron.jpg
 featured: true
 comments: true
