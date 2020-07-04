@@ -3,9 +3,8 @@ layout: post-right-sidebar
 author: Ravi
 title: Anatomy of Intolerance
 categories:
-- dissent
-- diversity
-- intolerance
+- behavior
+- sociology
 image: assets/images/social-exclusion.jpg
 featured: true
 comments: true
