@@ -4,6 +4,7 @@ title: Is it India’s Turn in Global Manufacturing Now?
 author: Ravi
 categories:
 - management
+- economics
 image: assets/images/three.webp
 comments: true
 
