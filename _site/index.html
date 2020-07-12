@@ -121,15 +121,29 @@
     ================================================== --> 
     <div class="main-content">
         <!-- Home Jumbotron
-================================================== -->    
+================================================== -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script>
+    let targetUrl = window.location.href;
+$.ajax('https://hitcounter.pythonanywhere.com/count',{
+    data:{url: targetUrl},
+}).then(count => {
+            // console.log( 'Count:' + (4789 + parseInt(count)) )
+            const counts = ( 4789 + parseInt(count) )
+            $("#totalcount").text(counts);
+            }
+        );
+</script>    
 <section class="intro full-width">
     <div class="wrapintro">
         <h1>Author, Coach, Mentor<br>and Consultant</h1>
         <h2 class="lead">Learning is not a destination, it is a journey – filled with fun, excitement and openness to change </h2>
         <a href="/contact" class="btn">Contact Me</a>
-        <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=ravikumarpillai.com" alt="Total Page Views" style="margin: 25px auto; display: block; margin-bottom: 0;">
+        <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=ravikumarpillai.com" alt="Total Page Views" style="margin: 25px auto; display: block; margin-bottom: 0;"> -->
+        <div style="margin: 50px auto; display: block; margin-bottom: 0;">Total Page Views: <span id="totalcount" style="font-weight: bold;">loading...</span></div>
     </div>
 </section>
+
 
 
 <!-- Featured
@@ -152,14 +166,102 @@
 <div class="card">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
-            <a href="http://localhost:4000/dissent/diversity/intolerance/2020/06/26/anatomy-of-intolerance.html">
+            <a href="http://localhost:4000/behavior/2020/07/06/the-world-of-multiple-intelligence.html">
+            <div class="thumbnail" style="background-image:url(/assets/images/competency-image-2.jpg);">
+            </div>
+            </a>
+        </div>
+        <div class="col-md-7">
+            <div class="card-block">
+                <h2 class="card-title"><a href="http://localhost:4000/behavior/2020/07/06/the-world-of-multiple-intelligence.html">The World of Multiple Intelligence </a></h2>
+                <h4 class="card-text">Why do many star students end up as mediocre performers in career and life? Some would be severely bruised in the battles of life. In...</h4>
+                <div class="metafooter">
+                    <div class="wrapfooter">
+                        
+                        <span class="meta-footer-thumb">
+                        <img class="author-thumb" src="/assets/images/main.png" alt="Ravi">
+                        </span>
+                        <span class="author-meta">
+                        <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/ravi-kumar-k-pillai-0b80a49/?originalSubdomain=in">Ravi</a></span><br/>
+                        
+                        <span class="post-date">06 Jul 2020</span>
+                        </span>
+                        <span class="post-read-more"><a href="http://localhost:4000/behavior/2020/07/06/the-world-of-multiple-intelligence.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- end post -->
+
+        
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-sm-6">
+<div class="card">
+    <div class="row">
+        <div class="col-md-5 wrapthumbnail">
+            <a href="http://localhost:4000/sociology/economics/2020/07/02/coming-to-terms-with-the-realities-of-job-loss.html">
+            <div class="thumbnail" style="background-image:url(/assets/images/exit-image.jpg);">
+            </div>
+            </a>
+        </div>
+        <div class="col-md-7">
+            <div class="card-block">
+                <h2 class="card-title"><a href="http://localhost:4000/sociology/economics/2020/07/02/coming-to-terms-with-the-realities-of-job-loss.html">Coming to Terms with the Realities of Job Loss </a></h2>
+                <h4 class="card-text">It is important for employees in corporate sector to be professionally, emotionally and financially prepared to face the realities of job exits.
+
+</h4>
+                <div class="metafooter">
+                    <div class="wrapfooter">
+                        
+                        <span class="meta-footer-thumb">
+                        <img class="author-thumb" src="/assets/images/main.png" alt="Ravi">
+                        </span>
+                        <span class="author-meta">
+                        <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/ravi-kumar-k-pillai-0b80a49/?originalSubdomain=in">Ravi</a></span><br/>
+                        
+                        <span class="post-date">02 Jul 2020</span>
+                        </span>
+                        <span class="post-read-more"><a href="http://localhost:4000/sociology/economics/2020/07/02/coming-to-terms-with-the-realities-of-job-loss.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- end post -->
+
+        
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-sm-6">
+<div class="card">
+    <div class="row">
+        <div class="col-md-5 wrapthumbnail">
+            <a href="http://localhost:4000/behavior/sociology/2020/06/26/anatomy-of-intolerance.html">
             <div class="thumbnail" style="background-image:url(/assets/images/social-exclusion.jpg);">
             </div>
             </a>
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="http://localhost:4000/dissent/diversity/intolerance/2020/06/26/anatomy-of-intolerance.html">Anatomy of Intolerance</a></h2>
+                <h2 class="card-title"><a href="http://localhost:4000/behavior/sociology/2020/06/26/anatomy-of-intolerance.html">Anatomy of Intolerance</a></h2>
                 <h4 class="card-text">Peacock is the National Bird of India. Known for its exquisite charm and peaceful demeanor, the bird radiates a synergy with nature. However, the typical...</h4>
                 <div class="metafooter">
                     <div class="wrapfooter">
@@ -172,7 +274,7 @@
                         
                         <span class="post-date">26 Jun 2020</span>
                         </span>
-                        <span class="post-read-more"><a href="http://localhost:4000/dissent/diversity/intolerance/2020/06/26/anatomy-of-intolerance.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <span class="post-read-more"><a href="http://localhost:4000/behavior/sociology/2020/06/26/anatomy-of-intolerance.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -195,14 +297,14 @@
 <div class="card">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
-            <a href="http://localhost:4000/diplomacy/india/trump/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html">
+            <a href="http://localhost:4000/economics/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html">
             <div class="thumbnail" style="background-image:url(/assets/images/donald-trump.jpg);">
             </div>
             </a>
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="http://localhost:4000/diplomacy/india/trump/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html">Looking Beyond the US Elections 2020 – an Indian Perspective</a></h2>
+                <h2 class="card-title"><a href="http://localhost:4000/economics/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html">Looking Beyond the US Elections 2020 – an Indian Perspective</a></h2>
                 <h4 class="card-text">Donald Trump seems to have hit a sticky patch even as the US Presidential election is inching closer. He has spent much of his first...</h4>
                 <div class="metafooter">
                     <div class="wrapfooter">
@@ -215,7 +317,7 @@
                         
                         <span class="post-date">23 Jun 2020</span>
                         </span>
-                        <span class="post-read-more"><a href="http://localhost:4000/diplomacy/india/trump/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <span class="post-read-more"><a href="http://localhost:4000/economics/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -238,14 +340,14 @@
 <div class="card">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
-            <a href="http://localhost:4000/global%20bully/china/ladakh%20blues%20/2020/06/20/challenges-of-dealing-with-china.html">
+            <a href="http://localhost:4000/governance/2020/06/20/challenges-of-dealing-with-china.html">
             <div class="thumbnail" style="background-image:url(/assets/images/dragon-ball-z-kakarot-shenron.jpg);">
             </div>
             </a>
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="http://localhost:4000/global%20bully/china/ladakh%20blues%20/2020/06/20/challenges-of-dealing-with-china.html">Challenges of Dealing with China</a></h2>
+                <h2 class="card-title"><a href="http://localhost:4000/governance/2020/06/20/challenges-of-dealing-with-china.html">Challenges of Dealing with China</a></h2>
                 <h4 class="card-text">If there is one thing common between Nehru and Modi it is that both made sincere attempts to cultivate what they believed to be a...</h4>
                 <div class="metafooter">
                     <div class="wrapfooter">
@@ -258,7 +360,7 @@
                         
                         <span class="post-date">20 Jun 2020</span>
                         </span>
-                        <span class="post-read-more"><a href="http://localhost:4000/global%20bully/china/ladakh%20blues%20/2020/06/20/challenges-of-dealing-with-china.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <span class="post-read-more"><a href="http://localhost:4000/governance/2020/06/20/challenges-of-dealing-with-china.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -281,14 +383,14 @@
 <div class="card">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
-            <a href="http://localhost:4000/self-compassion/behavior/psychology/2020/06/18/practice-of-self-compassion.html">
+            <a href="http://localhost:4000/behavior/2020/06/18/practice-of-self-compassion.html">
             <div class="thumbnail" style="background-image:url(/assets/images/image-asset.jpeg);">
             </div>
             </a>
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="http://localhost:4000/self-compassion/behavior/psychology/2020/06/18/practice-of-self-compassion.html">Practice of Self-Compassion</a></h2>
+                <h2 class="card-title"><a href="http://localhost:4000/behavior/2020/06/18/practice-of-self-compassion.html">Practice of Self-Compassion</a></h2>
                 <h4 class="card-text">Sushant Singh Rajput was an extremely talented and ambitious actor. His performances had a refreshing glow and authenticity that was rare to come by so...</h4>
                 <div class="metafooter">
                     <div class="wrapfooter">
@@ -301,7 +403,50 @@
                         
                         <span class="post-date">18 Jun 2020</span>
                         </span>
-                        <span class="post-read-more"><a href="http://localhost:4000/self-compassion/behavior/psychology/2020/06/18/practice-of-self-compassion.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <span class="post-read-more"><a href="http://localhost:4000/behavior/2020/06/18/practice-of-self-compassion.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- end post -->
+
+        
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-sm-6">
+<div class="card">
+    <div class="row">
+        <div class="col-md-5 wrapthumbnail">
+            <a href="http://localhost:4000/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html">
+            <div class="thumbnail" style="background-image:url(/assets/images/goose.png);">
+            </div>
+            </a>
+        </div>
+        <div class="col-md-7">
+            <div class="card-block">
+                <h2 class="card-title"><a href="http://localhost:4000/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html">Indian Telecom : Do not Kill the Golden Goose</a></h2>
+                <h4 class="card-text">As the Supreme Court of India took up the contentious issue of Adjusted Gross Revenue (AGR) and computation of arrears payable by the Telecom Operators...</h4>
+                <div class="metafooter">
+                    <div class="wrapfooter">
+                        
+                        <span class="meta-footer-thumb">
+                        <img class="author-thumb" src="/assets/images/main.png" alt="Ravi">
+                        </span>
+                        <span class="author-meta">
+                        <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/ravi-kumar-k-pillai-0b80a49/?originalSubdomain=in">Ravi</a></span><br/>
+                        
+                        <span class="post-date">14 Jun 2020</span>
+                        </span>
+                        <span class="post-read-more"><a href="http://localhost:4000/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -342,24 +487,20 @@
 
         
 
-    
-
-        
-
             <!-- begin post -->
 
 <div class="col-sm-6">
 <div class="card">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
-            <a href="http://localhost:4000/one/two/2018/01/12/resilient-india-postcovid.html">
+            <a href="http://localhost:4000/economics/2018/01/12/resilient-india-postcovid.html">
             <div class="thumbnail" style="background-image:url(/assets/images/hero.jpg);">
             </div>
             </a>
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/12/resilient-india-postcovid.html">An Agenda for Building a Resilient India post-Covid</a></h2>
+                <h2 class="card-title"><a href="http://localhost:4000/economics/2018/01/12/resilient-india-postcovid.html">An Agenda for Building a Resilient India post-Covid</a></h2>
                 <h4 class="card-text">“April is the cruellest month”, wrote TS Eliot, the celebrated poet. As if to prove the prophetic words, Covid pandemic wound itself up through the...</h4>
                 <div class="metafooter">
                     <div class="wrapfooter">
@@ -372,7 +513,7 @@
                         
                         <span class="post-date">12 Jan 2018</span>
                         </span>
-                        <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/12/resilient-india-postcovid.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <span class="post-read-more"><a href="http://localhost:4000/economics/2018/01/12/resilient-india-postcovid.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -407,14 +548,14 @@
 <div class="card">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
-            <a href="http://localhost:4000/one/two/2018/01/11/pusuit-of-power.html">
+            <a href="http://localhost:4000/governance/behavior/2018/01/11/pusuit-of-power.html">
             <div class="thumbnail" style="background-image:url(/assets/images/herro.jpg);">
             </div>
             </a>
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/11/pusuit-of-power.html">The Pursuit of Power</a></h2>
+                <h2 class="card-title"><a href="http://localhost:4000/governance/behavior/2018/01/11/pusuit-of-power.html">The Pursuit of Power</a></h2>
                 <h4 class="card-text">Narcissus, the legendary hunter prince in Greek mythology, is said to have fallen in love with his own image. His love for self grew so...</h4>
                 <div class="metafooter">
                     <div class="wrapfooter">
@@ -427,7 +568,7 @@
                         
                         <span class="post-date">11 Jan 2018</span>
                         </span>
-                        <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/11/pusuit-of-power.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                        <span class="post-read-more"><a href="http://localhost:4000/governance/behavior/2018/01/11/pusuit-of-power.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -529,36 +670,11 @@
 
             
 
-                <!-- begin post -->
+            
 
+            
 
-<div class="col-md-6 grid-item">
-<div class="card">
-    <a href="http://localhost:4000/telecom/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html">
-         <img class="img-fluid" src="/assets/images/goose.png" alt="Indian Telecom : Do not Kill the Golden Goose"> 
-    </a>
-    <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/telecom/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html">Indian Telecom : Do not Kill the Golden Goose</a></h2>
-        <h4 class="card-text">As the Supreme Court of India took up the contentious issue of Adjusted Gross Revenue (AGR) and computation of arrears payable by the Telecom Operators on last Thursday, the flip-flop...</h4>
-        <div class="metafooter">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                <img class="author-thumb" src="/assets/images/main.png" alt="Ravi">
-                </span>                
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/ravi-kumar-k-pillai-0b80a49/?originalSubdomain=in">Ravi</a></span><br/>
-                
-                <span class="post-date">14 Jun 2020</span>
-                </span>
-                <span class="post-read-more"><a href="http://localhost:4000/telecom/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html" title="Read Story"><i class="fa fa-link"></i></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<!-- end post -->
+            
 
             
 
@@ -571,11 +687,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/one/two/2020/06/10/vision-overload.html">
+    <a href="http://localhost:4000/economics/governance/2020/06/10/vision-overload.html">
          <img class="img-fluid" src="/assets/images/visionoverload.jpg" alt="Vision Overload"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/one/two/2020/06/10/vision-overload.html">Vision Overload</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/economics/governance/2020/06/10/vision-overload.html">Vision Overload</a></h2>
         <h4 class="card-text">“If only we had a leadership with vision” is a refrain heard in many democracies. In the hardball political playout, it is often pragmatism and populism that win the day...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -588,7 +704,7 @@
                 
                 <span class="post-date">10 Jun 2020</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/one/two/2020/06/10/vision-overload.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/economics/governance/2020/06/10/vision-overload.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -608,11 +724,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/economy/india/2020/06/05/the-next-wave.html">
+    <a href="http://localhost:4000/economics/2020/06/05/the-next-wave.html">
          <img class="img-fluid" src="/assets/images/economy.jpg" alt="The Next Wave - From Mixed Economy to a Blended One"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/economy/india/2020/06/05/the-next-wave.html">The Next Wave - From Mixed Economy to a Blended One</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/economics/2020/06/05/the-next-wave.html">The Next Wave - From Mixed Economy to a Blended One</a></h2>
         <h4 class="card-text">When Winston Churchill assumed office as the Prime Minister of Great Britain, the country was staring at impending disaster. Serious questions were being raised as to how ‘great’ Britain’s precarious...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -625,7 +741,7 @@
                 
                 <span class="post-date">05 Jun 2020</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/economy/india/2020/06/05/the-next-wave.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/economics/2020/06/05/the-next-wave.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -645,11 +761,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/one/two/2018/01/12/wonderland-of-indian-public-sector.html">
+    <a href="http://localhost:4000/management/economics%20/governance/2018/01/12/wonderland-of-indian-public-sector.html">
          <img class="img-fluid" src="/assets/images/one.webp" alt="In the Wonderland of Indian Public Sector"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/12/wonderland-of-indian-public-sector.html">In the Wonderland of Indian Public Sector</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/management/economics%20/governance/2018/01/12/wonderland-of-indian-public-sector.html">In the Wonderland of Indian Public Sector</a></h2>
         <h4 class="card-text">Indian politicians usually fight shy of candid and crisp statements. In a rare departure, Nirmala Seetharaman, the Finance Manager recently articulated the modified policy on public enterprises, “In strategic sectors,...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -662,7 +778,7 @@
                 
                 <span class="post-date">12 Jan 2018</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/12/wonderland-of-indian-public-sector.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/management/economics%20/governance/2018/01/12/wonderland-of-indian-public-sector.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -719,11 +835,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/one/two/2018/01/12/the-practice-of-gratitude.html">
+    <a href="http://localhost:4000/governance/behavior/2018/01/12/the-practice-of-gratitude.html">
          <img class="img-fluid" src="/assets/images/gratitude.jpg" alt="The Practice of Gratitude"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/12/the-practice-of-gratitude.html">The Practice of Gratitude</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/governance/behavior/2018/01/12/the-practice-of-gratitude.html">The Practice of Gratitude</a></h2>
         <h4 class="card-text">Many years back I was nominated to attend an international training program in a prestigious academic institution in London. Those days in India everything from a passport to foreign exchange...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -736,7 +852,7 @@
                 
                 <span class="post-date">12 Jan 2018</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/12/the-practice-of-gratitude.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/governance/behavior/2018/01/12/the-practice-of-gratitude.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -756,11 +872,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/one/two/2018/01/12/strangers-under-the-roof.html">
+    <a href="http://localhost:4000/behavior/sociology/2018/01/12/strangers-under-the-roof.html">
          <img class="img-fluid" src="/assets/images/strangers.jpg" alt="Strangers Under the Roof"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/12/strangers-under-the-roof.html">Strangers Under the Roof</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/behavior/sociology/2018/01/12/strangers-under-the-roof.html">Strangers Under the Roof</a></h2>
         <h4 class="card-text">As the world struggles to recover from the uncertainties in business, trade and investment flows, three questions are being vehemently discussed by economists, administrators, academicians and citizens at large. Is...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -773,7 +889,7 @@
                 
                 <span class="post-date">12 Jan 2018</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/12/strangers-under-the-roof.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/behavior/sociology/2018/01/12/strangers-under-the-roof.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -797,11 +913,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/one/two/2018/01/12/is-india-ready-for-federalism.html">
+    <a href="http://localhost:4000/governance/2018/01/12/is-india-ready-for-federalism.html">
          <img class="img-fluid" src="/assets/images/india.jpg" alt="Is India ready for Federalism?"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/12/is-india-ready-for-federalism.html">Is India ready for Federalism?</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/governance/2018/01/12/is-india-ready-for-federalism.html">Is India ready for Federalism?</a></h2>
         <h4 class="card-text">India as an independent nation is about to complete seventy-five years of freedom from colonial rule. Thirty years is generally considered as a generational span, which is the average time...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -814,7 +930,7 @@
                 
                 <span class="post-date">12 Jan 2018</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/12/is-india-ready-for-federalism.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/governance/2018/01/12/is-india-ready-for-federalism.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -834,11 +950,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/one/two/2018/01/12/indias-turn-in-global-manufacturing-now.html">
+    <a href="http://localhost:4000/management/economics/2018/01/12/indias-turn-in-global-manufacturing-now.html">
          <img class="img-fluid" src="/assets/images/three.webp" alt="Is it India’s Turn in Global Manufacturing Now?"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/12/indias-turn-in-global-manufacturing-now.html">Is it India’s Turn in Global Manufacturing Now?</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/management/economics/2018/01/12/indias-turn-in-global-manufacturing-now.html">Is it India’s Turn in Global Manufacturing Now?</a></h2>
         <h4 class="card-text">As the world struggles to recover from the uncertainties in business, trade and investment flows, three questions are being vehemently discussed by economists, administrators, academicians and citizens at large. Is...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -851,7 +967,7 @@
                 
                 <span class="post-date">12 Jan 2018</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/12/indias-turn-in-global-manufacturing-now.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/management/economics/2018/01/12/indias-turn-in-global-manufacturing-now.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -871,11 +987,11 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
-    <a href="http://localhost:4000/one/two/2018/01/12/anger-management.html">
+    <a href="http://localhost:4000/2018/01/12/anger-management.html">
          <img class="img-fluid" src="/assets/images/anger.jpg" alt="Anger Management"> 
     </a>
     <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/one/two/2018/01/12/anger-management.html">Anger Management</a></h2>
+        <h2 class="card-title"><a href="http://localhost:4000/2018/01/12/anger-management.html">Anger Management</a></h2>
         <h4 class="card-text">Sidharth was busy late into the wee hours on that wintry December night celebrating with his friends the success of his project meeting with the overseas client. It was a...</h4>
         <div class="metafooter">
             <div class="wrapfooter">
@@ -888,7 +1004,7 @@
                 
                 <span class="post-date">12 Jan 2018</span>
                 </span>
-                <span class="post-read-more"><a href="http://localhost:4000/one/two/2018/01/12/anger-management.html" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <span class="post-read-more"><a href="http://localhost:4000/2018/01/12/anger-management.html" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
