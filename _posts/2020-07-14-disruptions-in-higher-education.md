@@ -21,7 +21,7 @@ Every distress and slippage is a trigger for creative evolution of alternatives 
 
 The Draft New Educational Policy is in the public domain and discussions are active on the pros and cons of the proposals. Covid has exposed many more chinks in the armour than addressed by the draft policy which was formulated by end of 2019. **The pandemic lockdown provides a window of opportunity to revisit, review and reset the higher education framework.**
 
-I would like to highlight **six action points of strategic importance** in crafting the post-Covid higher education ecosystem.
+I would like to highlight **seven action points of strategic importance** in crafting the post-Covid higher education ecosystem.
 
 _Firstly,_ the immediate concern to be addressed is the **operational renewal** and realignment of higher education. The pandemic did affect the conduct of final examinations including end-of-the-course schedules. The challenge is to see how the adverse fallouts of **disruption of exam schedules** and the improvised evaluation and grading procedures can be minimised. **Admissions to the courses in the new academic year** has to be handled in transparent, fair and logical manner.
 
