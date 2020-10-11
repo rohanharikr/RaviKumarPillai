@@ -135,6 +135,10 @@
 <lastmod>2020-06-28T20:29:16+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/category/governance/</loc>
+<lastmod>2020-07-13T00:28:11+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/category/</loc>
 <lastmod>2020-06-28T20:29:16+05:30</lastmod>
 </url>
@@ -151,6 +155,10 @@
 <lastmod>2020-06-28T20:29:16+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/category/management/</loc>
+<lastmod>2020-07-13T00:28:11+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/category/one/</loc>
 <lastmod>2020-06-28T20:29:16+05:30</lastmod>
 </url>
@@ -161,6 +169,10 @@
 <url>
 <loc>http://localhost:4000/category/self-compassion/</loc>
 <lastmod>2020-06-28T20:29:16+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/category/sociology/</loc>
+<lastmod>2020-07-13T00:28:11+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/category/telecom/</loc>
