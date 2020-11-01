@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 author: Ravi
-title: 'Beyond WFM : The birth of ‘Distributed Organization’ '
+title: 'Beyond Work From Home : The birth of ‘Distributed Organization’ '
 categories:
 - management
 - ''
