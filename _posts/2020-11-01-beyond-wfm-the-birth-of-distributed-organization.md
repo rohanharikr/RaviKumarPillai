@@ -6,7 +6,7 @@ categories:
 - management
 - ''
 image: assets/images/remote-2.jpg
-featured: false
+featured: true
 
 ---
 The pandemic logjam seems set to clock its anniversary even as the world would ring in 2021. Full scale normalcy is both enticing and elusive as a destination. Organizations and individuals are coming to terms with the protocol of Work From home (WFH).
