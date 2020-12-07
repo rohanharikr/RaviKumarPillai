@@ -2,7 +2,10 @@
 layout: post-right-sidebar
 author: Ravi
 title: What the Farmers' Fury Teaches Us
-categories: []
+categories:
+- governance
+- economics
+- ''
 image: assets/images/apmc-vashi.jpg
 featured: true
 published: false
