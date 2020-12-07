@@ -8,7 +8,6 @@ categories:
 - ''
 image: assets/images/apmc-vashi.jpg
 featured: true
-published: false
 
 ---
 
