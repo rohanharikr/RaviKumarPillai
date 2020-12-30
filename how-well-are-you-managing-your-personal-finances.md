@@ -8,7 +8,6 @@ categories:
 - ''
 image: assets/images/personal-finance.png
 featured: true
-published: false
 
 ---
 It is New Year time, yet again. The year that has just gone by turned out to be unlike any in the recent memory. Providing unprecedented perspectives. Replete with lessons for future.
