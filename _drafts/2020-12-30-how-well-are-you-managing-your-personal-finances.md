@@ -13,9 +13,9 @@ featured: true
 ---
 It is New Year time, yet again. The year that has just gone by turned out to be unlike any in the recent memory. Providing unprecedented perspectives. Replete with lessons for future.
 
-Two key lessons most of us learned the hard way in in 2020 related to our work routines and our comfort level with personal finances. Both got disrupted unimaginably. As for work, home and office have twinned themselves into a seamless continuum. A new regimen of remote working, virtual consultation and self-supervision has settled reasonably well for most of us.
+Two key lessons most of us learned the hard way in 2020 related to our work routines and our comfort level with personal finances. Both got disrupted unimaginably. As for work, home and office have twinned themselves into a seamless continuum. A new regimen of remote working, virtual consultation and self-supervision has settled reasonably well for most of us.
 
-While most of us adjusted to the _Work from Home_ mindset_,_ coping with the risks to personal finance stability has emerged as a bigger challenge. **Inadequacies in basic financial capabilities and the culture of taking things for granted have hardly helped us when faced with the unexpected crisis.**
+While most of us adjusted to the _Work from Home_ mindset, coping with the risks to personal finance stability has emerged as a bigger challenge. **Inadequacies in basic financial capabilities and the culture of taking things for granted have hardly helped us when faced with the unexpected crisis.**
 
 Too many of us, especially young professionals, have grown accustomed to thinking of job losses, missed loan payments or cuts and deferments in salary as belonging to another world. Possibly a world of fiction from the wild West.
 
