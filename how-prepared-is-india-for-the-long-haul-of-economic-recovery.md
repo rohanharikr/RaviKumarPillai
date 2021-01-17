@@ -8,7 +8,6 @@ categories:
 - ''
 image: assets/images/economic-recovery.jfif
 featured: true
-published: false
 
 ---
 It is said that going downhill is easy, but climbing back is quite an effort. It is true of nations and economies as much as for individuals. Downward journey is hardly voluntary. We do not plan to go downhill, aspirations are always to climb up the ladder of competence, wealth and influence. However, regression on progress and prosperity does happen due to emergence of risks for which we are not prepared. Covid pandemic has produced one such inflection point.
