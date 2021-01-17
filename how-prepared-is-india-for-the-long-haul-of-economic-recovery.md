@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 author: Ravi
-title: 'How prepared is India for the long haul of economic recovery? '
+title: 'How prepared is India for economic recovery? '
 categories:
 - governance
 - economics
