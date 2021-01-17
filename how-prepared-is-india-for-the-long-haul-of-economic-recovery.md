@@ -6,7 +6,7 @@ categories:
 - governance
 - economics
 - ''
-image: assets/images/economic-recovery.jfif
+image: assets/images/recovery.jfif
 featured: true
 
 ---
