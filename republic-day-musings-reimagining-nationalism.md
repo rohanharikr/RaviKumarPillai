@@ -8,7 +8,6 @@ categories:
 - ''
 image: assets/images/happy-republic-day-2020-images-greetings-380x214.jpg
 featured: true
-published: false
 
 ---
 This year India celebrates a subdued Republic Day with scaled down pageantry and shortened marching route along the Rajpath. A fallout of pandemic induced restraint.
