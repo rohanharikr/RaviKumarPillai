@@ -16,21 +16,21 @@ The top ten Indian companies by market capitalisation as of Feb/2021 reads: _RIL
 
 However, _it goes to the credit of free market dynamics and the gradual maturing of capital markets in the country that many of them lost out to the newer, nimbler and more focused businesses over time._
 
-Why is it that large business houses with an assortment of businesses in their portfolio seem less appealing to discerning investors? Some of the key factors for the loss of investor interest in them are rigidity of corporate structure, power-centric governance processes, blurring of strategic focus and dilution of economic value accretion from non-synergic businesses.
+Why is it that large business houses with an assortment of businesses in their portfolio seem less appealing to discerning investors? Some of the key factors for the loss of investor interest in them are rigidity of their corporate structure, power-centric governance processes, blurring of strategic focus and dilution of economic value accretion due to non-synergic businesses.
 
-Globally, the strategic weight of the conglomerate business model as against pure-play business enterprises has been on the decline. **In the US and in Europe since 1980s companies have preferred the stand-alone business format to consolidated group structure.**
+Globally, the strategic weight of the conglomerate business model has been on the decline. **In the US and in Europe since 1980s, companies have preferred the stand-alone business format to the group structure.**
 
-_Rise in_ _public activism against monopoly practices_ and the _perception of incremental shareholder value in decoupling of sunrise businesses from the legacy_ _ones_ were the key drivers behind this shift. Further, standalone business structure can _better align to sector-specific industry interests. Management and regulatory processes are a lot less complex_ compared to the group entity.
+_Rise in_ _activism against monopoly practices_ and the _perception of incremental shareholder value in decoupling of sunrise businesses from the legacy_ _ones_ were the key drivers behind this shift. Further, standalone business structure _better aligns with the sector-specific interests. Management and regulatory processes are a lot less complex_ for standalone enterprises compared to the group entities.
 
-**It is time for large business houses to relook at their structure and business model and to take a call on strategic restructuring.** This is needed to regain the animal spirit that spurred them to expansion in the first place. The context has changed and so have new challenges emerged. _Digitalisation opportunities, generational shift in talent and fast-changing competitive landscape_ call for **agility, collaboration and customer alignment** for survival and growth of businesses.
+**It is time for large business houses to relook at their business model and to take a call on strategic restructuring.** This is needed to regain the animal spirit that spurred them to expansion in the first place. The context has changed and   new challenges have emerged. _Digitalisation opportunities, generational shift in talent and leadership as well as fast-changing competitive landscape_ call for **agility, collaboration and customer alignment** for survival and growth. 
 
-In this context, group level consolidation as a model and strategy merits a fresh and objective look. Before we take up a few examples from the contemporary corporate landscape, we need to understand clearly the concept of _conglomerate discount._
+Group level consolidation as a model and strategy merits a fresh and objective look. Before we take up a few examples from the contemporary corporate landscape, we need to understand clearly the concept of _conglomerate discount._
 
-The enterprise valuation of a conglomerate is done by computing the ‘sum-of-parts’ value of individual businesses in the group. **Analysts tend to assign a lesser value to the consolidated business at group level compared to the sum total of the enterprise values of independent businesses.** That is because of the lack of synergy and the differential ‘performance outcome’ of the different businesses resulting in an overall depletion in the overall valuation. The larger, more diverse and complex a conglomerate structure is, the conglomerate discount too becomes more pronounced.
+The enterprise valuation of a conglomerate is done by aggregating the ‘sum-of-parts’ value of individual businesses in the group. **Analysts tend to assign a lesser value to the consolidated business at the group level compared to the sum total of the enterprise values of business verticals.** Lack of synergy across businesses,  performance lags and cyclical variations  of different businesses result in possible depletion of the overall valuation. 
 
-**In this age of super specialisation and digital technologies, small is indeed more beautiful and more effective. The giant corporates tend to be too slow to respond to the calls for instant responses.**
+**In this age of super specialisation and digitalisation, small is indeed more beautiful and more effective. Giant corporates tend to be too slow to respond to sudden changes in the business environment.**
 
-Look at the table of high market-cap companies given above. There are some vital learning points as we gleam the list once more.
+ There are some vital learning points as we review the list of top market cap companies.
 
 _Take the case of ITC._ It has been consistently coming down in the pecking order and has disappeared from the list of 2020. What do you think would have gone wrong when it comes to how the investment community perceives it?
 
