@@ -10,7 +10,6 @@ image: assets/images/career-management-april-2021.jpg
 featured: true
 
 ---
-
 Among the many paradigm shifts in the corporate world over the past few years, the **shortening career shelf-life,** especially at executive and professional levels, stands out for its emotional impact.
 
 In my long corporate career in diverse settings, I have had a ringside view of meteoric rises and unceremonious exits in the executive ladder. **Career longevity gets shorter, the higher you move up**. In my experience, I can count on my fingers the handful the C-Suite occupants who carried their bats through their innings unbruised and could exit with grace and contentment.
@@ -25,9 +24,9 @@ Well, let us look at the corporate sector and focus on the professional and exec
 
 **Corporate career is indeed akin to a plane ride in the Indian monsoon with high chance of being caught in turbulence and air pockets.** As long as you are flying above the cloud in clear skies, the ride may be smooth. But corporate career is not a smooth ride but involves up moves, dull moments, and to be realistic, downswings as well. Very few successful professionals would be able to look back on their career journey and claim to have had a one-way ascendancy to the top.
 
-If career is not a bed of roses, how would one prepare for minimising the shocks and bumps. There are _five survival skills_ that can carry you through the rough and tough of professional life.
+If career is not a bed of roses, how would one prepare for minimising the shocks and bumps. There are _six survival skills_ that can carry you through the rough and tough of professional life.
 
-_Firstly_, you need to demonstrate **agility and alignment **to the changing economic and cultural realities. Most professionals work as part of teams led by a leader. **In reality, most of us are on ‘project mode’ more often than we realise.** Much like in a combat situation in the army, we have to follow the discipline and SOPs for implementing group tasks. _Alignment with the leader is key to effectiveness._
+_Firstly_, you need to demonstrate **agility and alignment** to the changing economic and cultural realities. Most professionals work as part of teams led by a leader. **In reality, most of us are on ‘project mode’ more often than we realise.** Much like in a combat situation in the army, we have to follow the discipline and SOPs for implementing group tasks. _Alignment with the leader is key to effectiveness._
 
 **Most workplace stress and discord happen due to the inability of the leader and the team to appreciate each other’s perspectives**. When there is a leadership change, for example, the new leader is either from within or from outside. The pressures and sensitivities of realignment to the new situation would be tremendous on both the leader and the led.
 
@@ -47,7 +46,7 @@ Lateral entry is a common practice for middle to senior levels. _If you can comp
 
 Today, more and more **organisations look for executives with internal consulting competence so that they bring in ‘value add’ to the strategies, systems and practices of the organization.** Sharpening your strategic insights into the industry and company business are critical for your survival and growth.
 
-_Thirdly,_ your **ability and willingness to be a mentor and “go to” expert** enhances your chances of retention, reward and recognition by the employer. As much as your ability to learn, your enthusiasm and commitment to teach, train and mentor the talent pipeline would be an invaluable asset in your professional repertoire.
+_Thirdly,_ your **ability and willingness to be a mentor and “go to” expert** enhance your chances of retention, reward and recognition by the employer. As much as your ability to learn, your enthusiasm and commitment to teach, train and mentor the talent pipeline would be an invaluable asset in your professional repertoire.
 
 **In the legacy corporate culture, many people believed in and practiced the “irreplaceability” game. They kept knowledge, skills and applications to themselves and somehow led themselves to believe that being “skill critical” would ensure their continuous employment.**
 
