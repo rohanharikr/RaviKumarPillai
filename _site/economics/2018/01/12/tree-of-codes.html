@@ -20,7 +20,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2018-01-12T00:00:00+05:30" />
 <script type="application/ld+json">
-{"image":"http://localhost:4000/assets/images/two.jpg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"author":{"@type":"Person","name":"Ravi"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/economics/2018/01/12/tree-of-codes.html"},"datePublished":"2018-01-12T00:00:00+05:30","description":"Stories from One Thousand and One Nights, popularly known as Arabian Nights, have lighted up the minds of millions of kids in India for generations. Children who grew up listening to these stories by the bedside would have fantasized about the immense riches of Arabia. At least some of them would have migrated to the Gulf later in life in pursuit of job opportunities and savings.","@type":"BlogPosting","url":"http://localhost:4000/economics/2018/01/12/tree-of-codes.html","headline":"What Lies Ahead of the Gulf Slowdown?","dateModified":"2018-01-12T00:00:00+05:30","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/economics/2018/01/12/tree-of-codes.html"},"author":{"@type":"Person","name":"Ravi"},"url":"http://localhost:4000/economics/2018/01/12/tree-of-codes.html","headline":"What Lies Ahead of the Gulf Slowdown?","dateModified":"2018-01-12T00:00:00+05:30","datePublished":"2018-01-12T00:00:00+05:30","image":"http://localhost:4000/assets/images/two.jpg","description":"Stories from One Thousand and One Nights, popularly known as Arabian Nights, have lighted up the minds of millions of kids in India for generations. Children who grew up listening to these stories by the bedside would have fantasized about the immense riches of Arabia. At least some of them would have migrated to the Gulf later in life in pursuit of job opportunities and savings.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -437,7 +437,15 @@
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

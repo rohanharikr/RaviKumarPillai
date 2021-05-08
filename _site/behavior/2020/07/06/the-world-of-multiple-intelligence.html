@@ -20,7 +20,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-07-06T00:00:00+05:30" />
 <script type="application/ld+json">
-{"image":"http://localhost:4000/assets/images/competency-image-2.jpg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"author":{"@type":"Person","name":"Ravi"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/behavior/2020/07/06/the-world-of-multiple-intelligence.html"},"datePublished":"2020-07-06T00:00:00+05:30","description":"Why do many star students end up as mediocre performers in career and life? Some would be severely bruised in the battles of life. In spite of academic brilliance, winning scholarships, getting in to prestigious universities or even landing cushy jobs, many early achievers fail to ascend the success ladder in later years.","@type":"BlogPosting","url":"http://localhost:4000/behavior/2020/07/06/the-world-of-multiple-intelligence.html","headline":"The World of Multiple Intelligence","dateModified":"2020-07-06T00:00:00+05:30","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/behavior/2020/07/06/the-world-of-multiple-intelligence.html"},"author":{"@type":"Person","name":"Ravi"},"url":"http://localhost:4000/behavior/2020/07/06/the-world-of-multiple-intelligence.html","headline":"The World of Multiple Intelligence","dateModified":"2020-07-06T00:00:00+05:30","datePublished":"2020-07-06T00:00:00+05:30","image":"http://localhost:4000/assets/images/competency-image-2.jpg","description":"Why do many star students end up as mediocre performers in career and life? Some would be severely bruised in the battles of life. In spite of academic brilliance, winning scholarships, getting in to prestigious universities or even landing cushy jobs, many early achievers fail to ascend the success ladder in later years.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -223,6 +223,10 @@
                     <a class="thepostlink" href="http://localhost:4000/sociology/economics/2020/07/02/coming-to-terms-with-the-realities-of-job-loss.html">&laquo; Coming to Terms with the Realities of Job Loss </a>
                 </div>
               
+              
+                <div class="col-md-6 text-right pr-0">
+                    <a class="thepostlink" href="http://localhost:4000/economics/2020/07/13/economic-nuggets-catch-the-financial-and-business-vibes-early.html">Economic Nuggets : Catch the financial and business vibes early &raquo;</a>
+                </div>
               
             </div>
             <!-- End Prev/Next -->
@@ -437,7 +441,15 @@
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

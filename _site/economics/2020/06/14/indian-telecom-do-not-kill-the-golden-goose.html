@@ -20,7 +20,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-06-14T00:00:00+05:30" />
 <script type="application/ld+json">
-{"image":"http://localhost:4000/assets/images/goose.png","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"author":{"@type":"Person","name":"Ravi"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html"},"datePublished":"2020-06-14T00:00:00+05:30","description":"As the Supreme Court of India took up the contentious issue of Adjusted Gross Revenue (AGR) and computation of arrears payable by the Telecom Operators on last Thursday, the flip-flop of our bureaucratic governance was exposed for the umpteenth time.","@type":"BlogPosting","url":"http://localhost:4000/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html","headline":"Indian Telecom : Do not Kill the Golden Goose","dateModified":"2020-06-14T00:00:00+05:30","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html"},"author":{"@type":"Person","name":"Ravi"},"url":"http://localhost:4000/economics/2020/06/14/indian-telecom-do-not-kill-the-golden-goose.html","headline":"Indian Telecom : Do not Kill the Golden Goose","dateModified":"2020-06-14T00:00:00+05:30","datePublished":"2020-06-14T00:00:00+05:30","image":"http://localhost:4000/assets/images/goose.png","description":"As the Supreme Court of India took up the contentious issue of Adjusted Gross Revenue (AGR) and computation of arrears payable by the Telecom Operators on last Thursday, the flip-flop of our bureaucratic governance was exposed for the umpteenth time.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -439,7 +439,15 @@
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

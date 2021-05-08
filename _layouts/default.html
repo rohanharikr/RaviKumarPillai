@@ -230,7 +230,15 @@
 <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

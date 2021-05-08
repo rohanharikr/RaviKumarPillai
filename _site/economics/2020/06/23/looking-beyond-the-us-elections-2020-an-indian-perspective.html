@@ -20,7 +20,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-06-23T00:00:00+05:30" />
 <script type="application/ld+json">
-{"image":"http://localhost:4000/assets/images/donald-trump.jpg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"author":{"@type":"Person","name":"Ravi"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/economics/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html"},"datePublished":"2020-06-23T00:00:00+05:30","description":"Donald Trump seems to have hit a sticky patch even as the US Presidential election is inching closer. He has spent much of his first term indulging in whimsical and mercurial rants. During his term, the US lost much of its strategic clout, racial fire has been stoked through reckless pandering to the white middle-class voters. Even the traditional allies of America are wondering about the next moves of the highly unpredictable POTUS.","@type":"BlogPosting","url":"http://localhost:4000/economics/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html","headline":"Looking Beyond the US Elections 2020 – an Indian Perspective","dateModified":"2020-06-23T00:00:00+05:30","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/economics/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html"},"author":{"@type":"Person","name":"Ravi"},"url":"http://localhost:4000/economics/2020/06/23/looking-beyond-the-us-elections-2020-an-indian-perspective.html","headline":"Looking Beyond the US Elections 2020 – an Indian Perspective","dateModified":"2020-06-23T00:00:00+05:30","datePublished":"2020-06-23T00:00:00+05:30","image":"http://localhost:4000/assets/images/donald-trump.jpg","description":"Donald Trump seems to have hit a sticky patch even as the US Presidential election is inching closer. He has spent much of his first term indulging in whimsical and mercurial rants. During his term, the US lost much of its strategic clout, racial fire has been stoked through reckless pandering to the white middle-class voters. Even the traditional allies of America are wondering about the next moves of the highly unpredictable POTUS.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -429,7 +429,15 @@
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

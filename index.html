@@ -2,22 +2,23 @@
 layout: default
 title: Home
 ---
+
 <!-- Home Jumbotron
 ================================================== -->
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script>
-$.getJSON("https://api.countapi.xyz/hit/mysite.com/visits", function(response) {
-    const counts = (7282 + parseInt(response.value));
-    $("#totalcount").text(counts);
-});
-</script>
+
 <section class="intro full-width">
     <div class="wrapintro">
-        <h1>Author, Coach, Mentor<br>and Consultant</h1>
-        <h2 class="lead">Learning is not a destination, it is a journey – filled with fun, excitement and openness to change </h2>
+        <h1>Author, Coach, Mentor<br />and Consultant</h1>
+        <h2 class="lead">
+            Learning is not a destination, it is a journey – filled with fun,
+            excitement and openness to change
+        </h2>
         <a href="/contact" class="btn">Contact Me</a>
         <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=ravikumarpillai.com" alt="Total Page Views" style="margin: 25px auto; display: block; margin-bottom: 0;"> -->
-        <div style="margin: 50px auto; display: block; margin-bottom: 0;">Total Page Views: <span id="totalcount" style="font-weight: bold;">loading...</span></div>
+        <div style="margin: 50px auto; display: block; margin-bottom: 0">
+            Total Page Views:
+            <span id="totalcount" style="font-weight: bold">loading...</span>
+        </div>
     </div>
 </section>
 <!-- Featured
@@ -27,34 +28,24 @@ $.getJSON("https://api.countapi.xyz/hit/mysite.com/visits", function(response) {
         <h2><span>Featured</span></h2>
     </div>
     <div class="row listfeaturedtag">
-        {% for post in site.posts %}
-        {% if post.featured == true %}
-        {% include featuredbox.html %}
-        {% endif %}
-        {% endfor %}
+        {% for post in site.posts %} {% if post.featured == true %} {% include
+        featuredbox.html %} {% endif %} {% endfor %}
     </div>
 </section>
 <!-- Posts Index
 ================================================== -->
-{% if paginator.previous_page %}
-{% if paginator.previous_page > 0 %}
+{% if paginator.previous_page %} {% if paginator.previous_page > 0 %}
 <div id="jumptopageof"></div>
-{% endif %}
-{% endif %}
+{% endif %} {% endif %}
 <section class="recent-posts row">
-    <div class="col-sm-4">
-        {% include sidebar.html %}
-    </div>
+    <div class="col-sm-4">{% include sidebar.html %}</div>
     <div class="col-sm-8">
         <div class="section-title">
             <h2><span>All Stories</span></h2>
         </div>
         <div class="masonrygrid row listrecent">
-            {% for post in paginator.posts %}
-            {% unless post.featured == true %}
-            {% include postbox.html %}
-            {% endunless %}
-            {% endfor %}
+            {% for post in paginator.posts %} {% unless post.featured == true %}
+            {% include postbox.html %} {% endunless %} {% endfor %}
         </div>
         <!-- Pagination -->
         <div class="bottompagination">

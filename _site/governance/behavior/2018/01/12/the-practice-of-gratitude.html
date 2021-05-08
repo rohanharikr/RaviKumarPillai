@@ -20,7 +20,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2018-01-12T00:00:00+05:30" />
 <script type="application/ld+json">
-{"image":"http://localhost:4000/assets/images/gratitude.jpg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"author":{"@type":"Person","name":"Ravi"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/governance/behavior/2018/01/12/the-practice-of-gratitude.html"},"datePublished":"2018-01-12T00:00:00+05:30","description":"Many years back I was nominated to attend an international training program in a prestigious academic institution in London. Those days in India everything from a passport to foreign exchange had to be arranged within the tight regime controls of the Government. These and many other requirements were rationed out and made to appear as great favour at the mercy of the bureaucrats at different echelons. The self-importance of petty Government officials was perceived as directly proportional to the queues and recommendations for sanctions and signatures. In hindsight, India then resembled the erstwhile East European scarcity-ridden ‘dole-out’ societies.","@type":"BlogPosting","url":"http://localhost:4000/governance/behavior/2018/01/12/the-practice-of-gratitude.html","headline":"The Practice of Gratitude","dateModified":"2018-01-12T00:00:00+05:30","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/governance/behavior/2018/01/12/the-practice-of-gratitude.html"},"author":{"@type":"Person","name":"Ravi"},"url":"http://localhost:4000/governance/behavior/2018/01/12/the-practice-of-gratitude.html","headline":"The Practice of Gratitude","dateModified":"2018-01-12T00:00:00+05:30","datePublished":"2018-01-12T00:00:00+05:30","image":"http://localhost:4000/assets/images/gratitude.jpg","description":"Many years back I was nominated to attend an international training program in a prestigious academic institution in London. Those days in India everything from a passport to foreign exchange had to be arranged within the tight regime controls of the Government. These and many other requirements were rationed out and made to appear as great favour at the mercy of the bureaucrats at different echelons. The self-importance of petty Government officials was perceived as directly proportional to the queues and recommendations for sanctions and signatures. In hindsight, India then resembled the erstwhile East European scarcity-ridden ‘dole-out’ societies.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -441,7 +441,15 @@
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

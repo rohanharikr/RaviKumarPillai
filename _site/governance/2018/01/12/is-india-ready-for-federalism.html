@@ -20,7 +20,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2018-01-12T00:00:00+05:30" />
 <script type="application/ld+json">
-{"image":"http://localhost:4000/assets/images/india.jpg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"author":{"@type":"Person","name":"Ravi"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/governance/2018/01/12/is-india-ready-for-federalism.html"},"datePublished":"2018-01-12T00:00:00+05:30","description":"India as an independent nation is about to complete seventy-five years of freedom from colonial rule. Thirty years is generally considered as a generational span, which is the average time taken for children born to become adults and have in turn children born to them. In that sense we have the third generation of citizens born in free India currently at the threshold of their teens. It is indeed time to ask ourselves some uncomfortable questions. What sort of future is reckoning these kids? How have we as a nation and as the generations preceding them fared in enabling their ascendancy in terms competence, engagement and quality of life?","@type":"BlogPosting","url":"http://localhost:4000/governance/2018/01/12/is-india-ready-for-federalism.html","headline":"Is India ready for Federalism?","dateModified":"2018-01-12T00:00:00+05:30","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/governance/2018/01/12/is-india-ready-for-federalism.html"},"author":{"@type":"Person","name":"Ravi"},"url":"http://localhost:4000/governance/2018/01/12/is-india-ready-for-federalism.html","headline":"Is India ready for Federalism?","dateModified":"2018-01-12T00:00:00+05:30","datePublished":"2018-01-12T00:00:00+05:30","image":"http://localhost:4000/assets/images/india.jpg","description":"India as an independent nation is about to complete seventy-five years of freedom from colonial rule. Thirty years is generally considered as a generational span, which is the average time taken for children born to become adults and have in turn children born to them. In that sense we have the third generation of citizens born in free India currently at the threshold of their teens. It is indeed time to ask ourselves some uncomfortable questions. What sort of future is reckoning these kids? How have we as a nation and as the generations preceding them fared in enabling their ascendancy in terms competence, engagement and quality of life?","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -423,7 +423,15 @@
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

@@ -16,7 +16,7 @@
 <meta property="og:url" content="http://localhost:4000/consulting.html" />
 <meta property="og:site_name" content="Ravi Kumar Pillai" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"}},"description":"Author, Coach, Mentor and Consultant","@type":"WebPage","url":"http://localhost:4000/consulting.html","headline":"Consulting","@context":"http://schema.org"}</script>
+{"url":"http://localhost:4000/consulting.html","headline":"Consulting","description":"Author, Coach, Mentor and Consultant","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"}},"@type":"WebPage","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -413,7 +413,15 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>

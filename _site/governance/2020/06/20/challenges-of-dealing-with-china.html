@@ -20,7 +20,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-06-20T00:00:00+05:30" />
 <script type="application/ld+json">
-{"image":"http://localhost:4000/assets/images/dragon-ball-z-kakarot-shenron.jpg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"author":{"@type":"Person","name":"Ravi"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/governance/2020/06/20/challenges-of-dealing-with-china.html"},"datePublished":"2020-06-20T00:00:00+05:30","description":"If there is one thing common between Nehru and Modi it is that both made sincere attempts to cultivate what they believed to be a natural and sustainable friendship between India and China. Both were back-stabbed by the dragon with its wry and deceptive smile.","@type":"BlogPosting","url":"http://localhost:4000/governance/2020/06/20/challenges-of-dealing-with-china.html","headline":"Challenges of Dealing with China","dateModified":"2020-06-20T00:00:00+05:30","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/governance/2020/06/20/challenges-of-dealing-with-china.html"},"author":{"@type":"Person","name":"Ravi"},"url":"http://localhost:4000/governance/2020/06/20/challenges-of-dealing-with-china.html","headline":"Challenges of Dealing with China","dateModified":"2020-06-20T00:00:00+05:30","datePublished":"2020-06-20T00:00:00+05:30","image":"http://localhost:4000/assets/images/dragon-ball-z-kakarot-shenron.jpg","description":"If there is one thing common between Nehru and Modi it is that both made sincere attempts to cultivate what they believed to be a natural and sustainable friendship between India and China. Both were back-stabbed by the dragon with its wry and deceptive smile.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/"},"name":"Ravi"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -443,7 +443,15 @@
 <script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="/assets/js/theme.js"></script>    
-    
+
+<script>
+    $.getJSON("https://api.countapi.xyz/hit/ravikumarpillai.com/", function(response) {
+        const counts = (132672 + parseInt(response.value));
+        console.log(counts)
+        $("#totalcount").text(counts);
+    });
+</script>
+
 </body>
     
 </html>
