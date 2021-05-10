@@ -3,7 +3,7 @@ layout: post-right-sidebar
 author: Ravi
 title: 'POPULAR ECONOMICS - Stray Thoughts on Economic Vibes Around '
 categories: []
-image: assets/images/economic-musings.jfif
+image: assets/images/depositphotos_11164659-stock-photo-stock-market-concept.jpg
 featured: true
 published: false
 
